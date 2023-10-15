@@ -76,7 +76,7 @@ const projectsData = [
     description: "",
     image: "/images/projects/Landscape1.jpg",
     tag: ["All", "Landscapes"],
-    previewUrl: "/images/projects/Landscape1.jpg",
+    previewUrl: "/images/projects/landscape1.jpg",
   },
   {
     id: 10,
@@ -84,7 +84,7 @@ const projectsData = [
     description: "Blue Ridge",
     image: "/images/projects/Landscape2.jpg",
     tag: ["All", "Landscapes"],
-    previewUrl: "/images/projects/Landscape2.jpg",
+    previewUrl: "/images/projects/landscape2.jpg",
   },
   {
     id: 11,
